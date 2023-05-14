@@ -1,5 +1,3 @@
-// console.log("test Index connection");
-
 const contacts = require("./contacts");
 const { Command } = require("commander");
 const program = new Command();
